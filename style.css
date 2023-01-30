@@ -1,0 +1,105 @@
+#logo{
+    font-family:"Angkor" ;
+    color:#4f0128 ;
+}
+header{
+    background-color: #f5f0f4;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.a1{
+    margin-left:800px ;
+    margin-top: 40px;
+}
+.a2{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.line{
+    background-color: black;
+    height: 1px;
+}
+.border{
+    border-width: 1px;
+    border-color: #4f0128;
+    border-style: solid;
+    border-bottom:dotted;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.txt1{
+    font-family: "adamina";
+    color:#4f0128;
+    margin-left: 10px;
+
+}
+.image1{
+    width: 650px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.image2{
+    width: 700px;
+    margin-left: 375px;
+    margin-top: 20px;
+}
+footer{
+    background-color:#f5f0f4;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+.icon1{
+    margin-left: 800px;
+    margin-top: 40px;
+}
+.icon2{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.txt2{
+    font-family: "adamina";
+    color:#4f0128;
+    width: 700px;
+    margin-left: 400px;
+    text-align: justify;
+}
+.image3{
+    width: 60%;
+    margin-left: 20%;
+}
+.icons{
+    margin-top: 30px;
+
+}
+.submit{
+    border: none;
+    background-color: #4f0128;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-left: 160px;
+}
+#e-mail{
+    margin-left: 20px;
+}
+#name{
+    margin-left:25px;
+}
+#message{
+    margin-left: 7px;
+}
+.form{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.txt4{
+    padding: 20px;
+}
